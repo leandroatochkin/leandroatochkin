@@ -16,7 +16,7 @@ Description: An app designed to manage large-scale events. Features include task
 Technologies Used: React Native, Expo, Node.js, mySQL
 
 Project 2: Malbec
-Description: A full-stack project where clients interact with localized software through file-based communication (e.g., GO_STFIN.txt) to process and handle orders effectively.
+Description: A full-stack project where clients interact with localized software through file-based communication to process and handle orders effectively.
 Technologies Used: Node.js, File I/O, Local Networking
 
 And many more...
